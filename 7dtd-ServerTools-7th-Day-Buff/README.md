@@ -1,5 +1,10 @@
-# 7dtd-ServerTools
+# 7dtd-ServerTools with 7th Day Buff Warning
 Server tools for 7 days to die dedicated servers<br>
+
+#7th Day Buff Warning Branch
+Added a Buff and a Warning to display during each 7th day.<br>
+Requires the Info Ticker to be setup with at least one message to display.<br>
+This branch uses the info ticker message(s) as the trigger to test the day number and display a buff and warning if it is a 7th day.<br>
 
 # Installation
 Go to https://github.com/dmustanger/7dtd-ServerTools/releases<br>
